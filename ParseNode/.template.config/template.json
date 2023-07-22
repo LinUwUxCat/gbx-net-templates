@@ -1,0 +1,13 @@
+{
+    "$schema":"http://json.schemastore.org/template",
+    "author": "LinuxCat",
+    "classifications": ["Console","GBX.NET","ParseNode"],
+    "identity": "GBX.NET.Template.Console.ParseNode",
+    "name": "GBX.NET Project parsing a node",
+    "shortName":"gbxnet-parsenode",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "description": "Provides a basic one-file console project for GBX.NET node parsing from a file."
+}

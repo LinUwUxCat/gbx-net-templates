@@ -1,0 +1,14 @@
+{
+    "$schema":"http://json.schemastore.org/template",
+    "author": "LinuxCat",
+    "classifications": ["Web", "Console", "GBX.NET", "WebTool"],
+    "identity": "GBX.NET.Template.WebTool",
+    "name": "GBX.NET Web Tool + CLI exe project",
+    "shortName":"gbxnet-webtool",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "description": "Provides a project for a Web Tool and its corresponding CLI exe",
+    "sourceName": "YourProjectName"
+}
