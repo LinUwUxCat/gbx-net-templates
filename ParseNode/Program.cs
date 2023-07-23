@@ -9,7 +9,7 @@ if (args.Length < 1)
     Console.WriteLine("No filename given.");
     return;
 }
-if (File.Exists(args[0]))
+if (!File.Exists(args[0]))
 {
     Console.WriteLine("Given file does not exist!");
     return;
